@@ -42,11 +42,17 @@ It leverages **MapKit** and **CoreLocation** for navigation, and integrates with
 ### Home Screen
 ![Home Screen](Home.png)
 
-### Route Preview
-![Route Preview](assets/route-preview.png)
+### Route Created
+![Route Created](Route creater.png)
 
-### Workout Summary
-![Workout Summary](assets/workout-summary.png)
+### Route Generated
+![Route Generated](Generated route.png)
+
+### Run History
+![Run History](Runhistory.png)
+
+### Saved Route
+![Saved Route](SavedRoute.png)
 
 1. Clone this repo:
    ```bash
