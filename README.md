@@ -34,7 +34,10 @@ It leverages **MapKit** and **CoreLocation** for navigation, and integrates with
 - Xcode 15+  
 - iOS 16.0+ target  
 - A Firebase project set up (Firestore + Auth enabled)  
-- TMDB / other API keys if used (see `.xcconfig` instructions)
+- Facebook, google sign in use dependencies.
+- Apple developer account to sign in with apple.
+- DG chart for making charts to analyse steps, calories data.
+- 
 
 ### Installation
 # 🎥 Demo Video
