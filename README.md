@@ -37,6 +37,16 @@ It leverages **MapKit** and **CoreLocation** for navigation, and integrates with
 - TMDB / other API keys if used (see `.xcconfig` instructions)
 
 ### Installation
+# 📸 Screenshots
+
+### Home Screen
+![Home Screen](Home.png)
+
+### Route Preview
+![Route Preview](assets/route-preview.png)
+
+### Workout Summary
+![Workout Summary](assets/workout-summary.png)
 
 1. Clone this repo:
    ```bash
