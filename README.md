@@ -37,6 +37,10 @@ It leverages **MapKit** and **CoreLocation** for navigation, and integrates with
 - TMDB / other API keys if used (see `.xcconfig` instructions)
 
 ### Installation
+# 🎥 Demo Video
+
+[![Watch the video](Home.png)]([https://youtu.be/your-video-id](https://drive.google.com/file/d/1wg-8c1UCjF1vxUoRx3lZl2_XJ393NYEV/view?usp=drive_link))
+
 # 📸 Screenshots
 
 ### Home Screen
